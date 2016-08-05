@@ -1,0 +1,5 @@
+/nbproject/
+/content/*
+!/content/.info
+/private/*
+!/private/.info
